@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - JSX
 - HTML
 - CSS
+- NPM Packages
+- Robo hash
 - Visual Studio Code
 
 ## LIVE 
